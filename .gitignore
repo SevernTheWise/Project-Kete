@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# personal household data exclusion
+kete_profile.txt
+kete_items.csv
+
 # User-specific files
 *.rsuser
 *.suo
